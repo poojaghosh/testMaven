@@ -4,9 +4,9 @@ Welcome to Ubuntu 18.04.5 LTS (GNU/Linux 5.4.0-1049-aws x86_64)
  * Management:     https://landscape.canonical.com
  * Support:        https://ubuntu.com/advantage
 
-  System information as of Sat Jun 12 13:03:13 UTC 2021
+  System information as of Sat Jun 12 13:48:49 UTC 2021
 
-  System load:  0.0               Processes:              123
+  System load:  0.0               Processes:              129
   Usage of /:   40.2% of 9.63GB   Users logged in:        1
   Memory usage: 20%               IP address for eth0:    172.31.14.14
   Swap usage:   0%                IP address for docker0: 172.17.0.1
