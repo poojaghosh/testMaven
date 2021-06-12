@@ -1,0 +1,295 @@
+{
+ "base64_encoded_keys": [],
+ "ds": {
+  "_doc": "EXPERIMENTAL: The structure and format of content scoped under the 'ds' key may change in subsequent releases of cloud-init.",
+  "_metadata_api_version": "2018-09-24",
+  "dynamic": {
+   "instance-identity": {
+    "document": {
+     "accountId": "977305237733",
+     "architecture": "x86_64",
+     "availabilityZone": "ap-south-1b",
+     "billingProducts": null,
+     "devpayProductCodes": null,
+     "imageId": "ami-0a14764a1a252d02f",
+     "instanceId": "i-06a675281af6eee97",
+     "instanceType": "t2.medium",
+     "kernelId": null,
+     "marketplaceProductCodes": null,
+     "pendingTime": "2021-06-12T10:07:19Z",
+     "privateIp": "172.31.14.14",
+     "ramdiskId": null,
+     "region": "ap-south-1",
+     "version": "2017-09-30"
+    },
+    "pkcs7": [
+     "MIAGCSqGSIb3DQEHAqCAMIACAQExCzAJBgUrDgMCGgUAMIAGCSqGSIb3DQEHAaCAJIAEggHfewog",
+     "ICJhY2NvdW50SWQiIDogIjk3NzMwNTIzNzczMyIsCiAgImFyY2hpdGVjdHVyZSIgOiAieDg2XzY0",
+     "IiwKICAiYXZhaWxhYmlsaXR5Wm9uZSIgOiAiYXAtc291dGgtMWIiLAogICJiaWxsaW5nUHJvZHVj",
+     "dHMiIDogbnVsbCwKICAiZGV2cGF5UHJvZHVjdENvZGVzIiA6IG51bGwsCiAgIm1hcmtldHBsYWNl",
+     "UHJvZHVjdENvZGVzIiA6IG51bGwsCiAgImltYWdlSWQiIDogImFtaS0wYTE0NzY0YTFhMjUyZDAy",
+     "ZiIsCiAgImluc3RhbmNlSWQiIDogImktMDZhNjc1MjgxYWY2ZWVlOTciLAogICJpbnN0YW5jZVR5",
+     "cGUiIDogInQyLm1lZGl1bSIsCiAgImtlcm5lbElkIiA6IG51bGwsCiAgInBlbmRpbmdUaW1lIiA6",
+     "ICIyMDIxLTA2LTEyVDEwOjA3OjE5WiIsCiAgInByaXZhdGVJcCIgOiAiMTcyLjMxLjE0LjE0IiwK",
+     "ICAicmFtZGlza0lkIiA6IG51bGwsCiAgInJlZ2lvbiIgOiAiYXAtc291dGgtMSIsCiAgInZlcnNp",
+     "b24iIDogIjIwMTctMDktMzAiCn0AAAAAAAAxggEXMIIBEwIBATBpMFwxCzAJBgNVBAYTAlVTMRkw",
+     "FwYDVQQIExBXYXNoaW5ndG9uIFN0YXRlMRAwDgYDVQQHEwdTZWF0dGxlMSAwHgYDVQQKExdBbWF6",
+     "b24gV2ViIFNlcnZpY2VzIExMQwIJAJa6SNnlXhpnMAkGBSsOAwIaBQCgXTAYBgkqhkiG9w0BCQMx",
+     "CwYJKoZIhvcNAQcBMBwGCSqGSIb3DQEJBTEPFw0yMTA2MTIxMDA3MjFaMCMGCSqGSIb3DQEJBDEW",
+     "BBT1PMIynRmLIYJ1J/S2F9reeHHJJDAJBgcqhkjOOAQDBC4wLAIUCmtzx9MubgnJMxJt/1qj6lPB",
+     "O2ECFA4fLs+c9F5pauOu2yuUpJ4SAQW6AAAAAAAA"
+    ],
+    "rsa2048": [
+     "MIAGCSqGSIb3DQEHAqCAMIACAQExDzANBglghkgBZQMEAgEFADCABgkqhkiG9w0BBwGggCSABIIB",
+     "33sKICAiYWNjb3VudElkIiA6ICI5NzczMDUyMzc3MzMiLAogICJhcmNoaXRlY3R1cmUiIDogIng4",
+     "Nl82NCIsCiAgImF2YWlsYWJpbGl0eVpvbmUiIDogImFwLXNvdXRoLTFiIiwKICAiYmlsbGluZ1By",
+     "b2R1Y3RzIiA6IG51bGwsCiAgImRldnBheVByb2R1Y3RDb2RlcyIgOiBudWxsLAogICJtYXJrZXRw",
+     "bGFjZVByb2R1Y3RDb2RlcyIgOiBudWxsLAogICJpbWFnZUlkIiA6ICJhbWktMGExNDc2NGExYTI1",
+     "MmQwMmYiLAogICJpbnN0YW5jZUlkIiA6ICJpLTA2YTY3NTI4MWFmNmVlZTk3IiwKICAiaW5zdGFu",
+     "Y2VUeXBlIiA6ICJ0Mi5tZWRpdW0iLAogICJrZXJuZWxJZCIgOiBudWxsLAogICJwZW5kaW5nVGlt",
+     "ZSIgOiAiMjAyMS0wNi0xMlQxMDowNzoxOVoiLAogICJwcml2YXRlSXAiIDogIjE3Mi4zMS4xNC4x",
+     "NCIsCiAgInJhbWRpc2tJZCIgOiBudWxsLAogICJyZWdpb24iIDogImFwLXNvdXRoLTEiLAogICJ2",
+     "ZXJzaW9uIiA6ICIyMDE3LTA5LTMwIgp9AAAAAAAAMYIB/zCCAfsCAQEwaTBcMQswCQYDVQQGEwJV",
+     "UzEZMBcGA1UECBMQV2FzaGluZ3RvbiBTdGF0ZTEQMA4GA1UEBxMHU2VhdHRsZTEgMB4GA1UEChMX",
+     "QW1hem9uIFdlYiBTZXJ2aWNlcyBMTEMCCQD0WMg/E7ZgtDANBglghkgBZQMEAgEFAKBpMBgGCSqG",
+     "SIb3DQEJAzELBgkqhkiG9w0BBwEwHAYJKoZIhvcNAQkFMQ8XDTIxMDYxMjEwMDcyMVowLwYJKoZI",
+     "hvcNAQkEMSIEIIiGxFaZdDloWpaw7Xu7e+mebH9VshiaIumH4Km9+bC0MA0GCSqGSIb3DQEBAQUA",
+     "BIIBAGmm8oYZ9SmINL7CqIjQxyXwEYxlzhfu/NFUO6NRWExj8ADJv8VI8b/1HT6w/XW05YwZSlH7",
+     "T8CiGporkhH9tbscyn20JV+gKk9nvMHTXsWBhvV3Obo968n46+YadMgJ29V3vrar57eExuzTV+03",
+     "52/DJdoKPakmfRWH4R+RYlDW0RH1KnOy4QIEnO3CQmvFxeuBI3W3PTS+pqfWJMc0sGGYC9qi7tNl",
+     "d7RSlAY6fJja3xgzPsYCRcLuwI7WQPuSi1lpUz98Lp5GHHoLE/vOglEsPyZR9P6ESWVFkAAtuymh",
+     "I9FDlbGPT6rS5+RXUshGjOQzRYYSfYd3pEH/pSwZAHYAAAAAAAA="
+    ],
+    "signature": [
+     "G09+ccaRA99ZVdReaUNamt02fjyfBa3V6aEMiWtWlZjy1i2qAYTO5UvKwKLM0JdC4MOZQkcpAbTu",
+     "DW4bDbvjNADyD7QUHHBWKz79vwz2phNzaHajRY25xHYFmqeS1xDswEnNgkMlht5ubTKxQhYZB82I",
+     "SY82o61jRPVauiJIwLE="
+    ]
+   }
+  },
+  "meta-data": {
+   "ami-id": "ami-0a14764a1a252d02f",
+   "ami-launch-index": "1",
+   "ami-manifest-path": "(unknown)",
+   "block-device-mapping": {
+    "ami": "/dev/sda1",
+    "root": "/dev/sda1"
+   },
+   "events": {
+    "maintenance": {
+     "history": "[]",
+     "scheduled": "[]"
+    }
+   },
+   "hibernation": {
+    "configured": "false"
+   },
+   "hostname": "ip-172-31-14-14.ap-south-1.compute.internal",
+   "identity-credentials": {
+    "ec2": {
+     "info": {
+      "AccountId": "977305237733",
+      "Code": "Success",
+      "LastUpdated": "2021-06-12T10:07:19Z"
+     }
+    }
+   },
+   "instance-action": "none",
+   "instance-id": "i-06a675281af6eee97",
+   "instance-type": "t2.medium",
+   "local-hostname": "ip-172-31-14-14.ap-south-1.compute.internal",
+   "local-ipv4": "172.31.14.14",
+   "mac": "0a:51:18:15:3d:8c",
+   "metrics": {
+    "vhostmd": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>"
+   },
+   "network": {
+    "interfaces": {
+     "macs": {
+      "0a:51:18:15:3d:8c": {
+       "device-number": "0",
+       "interface-id": "eni-023a56d233bd890dc",
+       "ipv4-associations": {
+        "65.2.82.101": "172.31.14.14"
+       },
+       "local-hostname": "ip-172-31-14-14.ap-south-1.compute.internal",
+       "local-ipv4s": "172.31.14.14",
+       "mac": "0a:51:18:15:3d:8c",
+       "owner-id": "977305237733",
+       "public-hostname": "ec2-65-2-82-101.ap-south-1.compute.amazonaws.com",
+       "public-ipv4s": "65.2.82.101",
+       "security-group-ids": "sg-0a9cb00456c3cd8f4",
+       "security-groups": "launch-wizard-2",
+       "subnet-id": "subnet-831c4fcf",
+       "subnet-ipv4-cidr-block": "172.31.0.0/20",
+       "vpc-id": "vpc-0c17d267",
+       "vpc-ipv4-cidr-block": "172.31.0.0/16",
+       "vpc-ipv4-cidr-blocks": "172.31.0.0/16"
+      }
+     }
+    }
+   },
+   "placement": {
+    "availability-zone": "ap-south-1b"
+   },
+   "profile": "default-hvm",
+   "public-hostname": "ec2-65-2-82-101.ap-south-1.compute.amazonaws.com",
+   "public-ipv4": "65.2.82.101",
+   "public-keys": {
+    "Ubuntu-18.0": [
+     "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC8hQz7eh0jI8o0qUfi0iHwknkQEKH558SJoHIeNqiSO5gd7Wn/GfjmajzN3tLaAyy5lSf8PyWyWnHICm+lVT1icdjL54XxYJt8ZNf6UPwlfYEjDwX8SIG2wjmhIv6VPX7YHAlWSiqCfPyWSnbFgIJnKrryBTil26bbXcLYXmoDuUz413nLb8BdnOa9OQmxM9M+E98e0fakcDPwvkXsVRdb8IwNyNmoILxmaOvWZZjo/366yZ7nVxIUflQVcKt/ICuH5CLf3JYzPk9RIUuK7Ut4jLQZtJBP9WReyMUOAD+1/YlAFu+FJhHRJy09P/bLBZlkJHH395iCvGwVdeASrIc3 Ubuntu-18.0"
+    ]
+   },
+   "reservation-id": "r-04cd21538e050f319",
+   "security-groups": "launch-wizard-2",
+   "services": {
+    "domain": "amazonaws.com",
+    "partition": "aws"
+   }
+  }
+ },
+ "merged_cfg": {
+  "_doc": "Merged cloud-init system config from /etc/cloud/cloud.cfg and /etc/cloud/cloud.cfg.d/",
+  "_log": [
+   "[loggers]\nkeys=root,cloudinit\n\n[handlers]\nkeys=consoleHandler,cloudLogHandler\n\n[formatters]\nkeys=simpleFormatter,arg0Formatter\n\n[logger_root]\nlevel=DEBUG\nhandlers=consoleHandler,cloudLogHandler\n\n[logger_cloudinit]\nlevel=DEBUG\nqualname=cloudinit\nhandlers=\npropagate=1\n\n[handler_consoleHandler]\nclass=StreamHandler\nlevel=WARNING\nformatter=arg0Formatter\nargs=(sys.stderr,)\n\n[formatter_arg0Formatter]\nformat=%(asctime)s - %(filename)s[%(levelname)s]: %(message)s\n\n[formatter_simpleFormatter]\nformat=[CLOUDINIT] %(filename)s[%(levelname)s]: %(message)s\n",
+   "[handler_cloudLogHandler]\nclass=FileHandler\nlevel=DEBUG\nformatter=arg0Formatter\nargs=('/var/log/cloud-init.log', 'a', 'UTF-8')\n",
+   "[handler_cloudLogHandler]\nclass=handlers.SysLogHandler\nlevel=DEBUG\nformatter=simpleFormatter\nargs=(\"/dev/log\", handlers.SysLogHandler.LOG_USER)\n"
+  ],
+  "cloud_config_modules": [
+   "emit_upstart",
+   "snap",
+   "ssh-import-id",
+   "locale",
+   "set-passwords",
+   "grub-dpkg",
+   "apt-pipelining",
+   "apt-configure",
+   "ubuntu-advantage",
+   "ntp",
+   "timezone",
+   "disable-ec2-metadata",
+   "runcmd",
+   "byobu"
+  ],
+  "cloud_final_modules": [
+   "package-update-upgrade-install",
+   "fan",
+   "landscape",
+   "lxd",
+   "ubuntu-drivers",
+   "puppet",
+   "chef",
+   "mcollective",
+   "salt-minion",
+   "reset_rmc",
+   "refresh_rmc_and_interface",
+   "rightscale_userdata",
+   "scripts-vendor",
+   "scripts-per-once",
+   "scripts-per-boot",
+   "scripts-per-instance",
+   "scripts-user",
+   "ssh-authkey-fingerprints",
+   "keys-to-console",
+   "phone-home",
+   "final-message",
+   "power-state-change"
+  ],
+  "cloud_init_modules": [
+   "migrator",
+   "seed_random",
+   "bootcmd",
+   "write-files",
+   "growpart",
+   "resizefs",
+   "disk_setup",
+   "mounts",
+   "set_hostname",
+   "update_hostname",
+   "update_etc_hosts",
+   "ca-certs",
+   "rsyslog",
+   "users-groups",
+   "ssh"
+  ],
+  "datasource_list": [
+   "Ec2",
+   "None"
+  ],
+  "def_log_file": "/var/log/cloud-init.log",
+  "disable_root": true,
+  "log_cfgs": [
+   [
+    "[loggers]\nkeys=root,cloudinit\n\n[handlers]\nkeys=consoleHandler,cloudLogHandler\n\n[formatters]\nkeys=simpleFormatter,arg0Formatter\n\n[logger_root]\nlevel=DEBUG\nhandlers=consoleHandler,cloudLogHandler\n\n[logger_cloudinit]\nlevel=DEBUG\nqualname=cloudinit\nhandlers=\npropagate=1\n\n[handler_consoleHandler]\nclass=StreamHandler\nlevel=WARNING\nformatter=arg0Formatter\nargs=(sys.stderr,)\n\n[formatter_arg0Formatter]\nformat=%(asctime)s - %(filename)s[%(levelname)s]: %(message)s\n\n[formatter_simpleFormatter]\nformat=[CLOUDINIT] %(filename)s[%(levelname)s]: %(message)s\n",
+    "[handler_cloudLogHandler]\nclass=FileHandler\nlevel=DEBUG\nformatter=arg0Formatter\nargs=('/var/log/cloud-init.log', 'a', 'UTF-8')\n"
+   ]
+  ],
+  "output": {
+   "all": "| tee -a /var/log/cloud-init-output.log"
+  },
+  "preserve_hostname": false,
+  "syslog_fix_perms": [
+   "syslog:adm",
+   "root:adm",
+   "root:wheel",
+   "root:root"
+  ],
+  "users": [
+   "default"
+  ],
+  "vendor_data": {
+   "enabled": true,
+   "prefix": []
+  }
+ },
+ "sensitive_keys": [
+  "merged_cfg"
+ ],
+ "sys_info": {
+  "dist": [
+   "ubuntu",
+   "18.04",
+   "bionic"
+  ],
+  "platform": "Linux-5.4.0-1049-aws-x86_64-with-Ubuntu-18.04-bionic",
+  "python": "3.6.9",
+  "release": "5.4.0-1049-aws",
+  "system": "Linux",
+  "uname": [
+   "Linux",
+   "ip-172-31-14-14",
+   "5.4.0-1049-aws",
+   "#51~18.04.1-Ubuntu SMP Fri May 14 18:38:46 UTC 2021",
+   "x86_64",
+   "x86_64"
+  ],
+  "variant": "ubuntu"
+ },
+ "v1": {
+  "_beta_keys": [
+   "subplatform"
+  ],
+  "availability-zone": "ap-south-1b",
+  "availability_zone": "ap-south-1b",
+  "cloud-name": "aws",
+  "cloud_name": "aws",
+  "distro": "ubuntu",
+  "distro_release": "bionic",
+  "distro_version": "18.04",
+  "instance-id": "i-06a675281af6eee97",
+  "instance_id": "i-06a675281af6eee97",
+  "kernel_release": "5.4.0-1049-aws",
+  "local-hostname": "ip-172-31-14-14",
+  "local_hostname": "ip-172-31-14-14",
+  "machine": "x86_64",
+  "platform": "ec2",
+  "public_ssh_keys": [
+   "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC8hQz7eh0jI8o0qUfi0iHwknkQEKH558SJoHIeNqiSO5gd7Wn/GfjmajzN3tLaAyy5lSf8PyWyWnHICm+lVT1icdjL54XxYJt8ZNf6UPwlfYEjDwX8SIG2wjmhIv6VPX7YHAlWSiqCfPyWSnbFgIJnKrryBTil26bbXcLYXmoDuUz413nLb8BdnOa9OQmxM9M+E98e0fakcDPwvkXsVRdb8IwNyNmoILxmaOvWZZjo/366yZ7nVxIUflQVcKt/ICuH5CLf3JYzPk9RIUuK7Ut4jLQZtJBP9WReyMUOAD+1/YlAFu+FJhHRJy09P/bLBZlkJHH395iCvGwVdeASrIc3 Ubuntu-18.0"
+  ],
+  "python_version": "3.6.9",
+  "region": "ap-south-1",
+  "subplatform": "metadata (http://169.254.169.254)",
+  "system_platform": "Linux-5.4.0-1049-aws-x86_64-with-Ubuntu-18.04-bionic",
+  "variant": "ubuntu"
+ }
+}

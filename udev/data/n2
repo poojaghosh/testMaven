@@ -1,0 +1,10 @@
+I:2268022
+E:ID_MM_CANDIDATE=1
+E:ID_NET_NAME_MAC=enx0a5118153d8c
+E:ID_PATH=xen-vif-0
+E:ID_PATH_TAG=xen-vif-0
+E:ID_NET_DRIVER=vif
+E:ID_NET_LINK_FILE=/run/systemd/network/10-netplan-eth0.link
+E:ID_NET_NAME=eth0
+E:SYSTEMD_ALIAS=/sys/subsystem/net/devices/eth0
+G:systemd

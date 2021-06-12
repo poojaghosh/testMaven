@@ -1,0 +1,16 @@
+# This is private data. Do not parse.
+UID=111
+USER=jenkins
+ACTIVE=1
+STATE=closing
+REMOTE=0
+TYPE=tty
+CLASS=user
+SCOPE=session-c1.scope
+TTY=???
+REMOTE_USER=root
+SERVICE=su
+POSITION=0
+LEADER=1218
+REALTIME=1623492472519979
+MONOTONIC=10955053

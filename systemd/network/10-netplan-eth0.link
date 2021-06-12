@@ -1,0 +1,6 @@
+[Match]
+MACAddress=0a:51:18:15:3d:8c
+
+[Link]
+Name=eth0
+WakeOnLan=off

@@ -1,0 +1,9 @@
+Log of fsck -C -a -V -t ext4 /dev/xvda1 
+Sat Jun 12 10:07:46 2021
+
+fsck from util-linux 2.31.1
+[/sbin/fsck.ext4 (1) -- /dev/xvda1] fsck.ext4 -a -C0 /dev/xvda1 
+cloudimg-rootfs: clean, 159342/1280000 files, 1109397/2621179 blocks
+
+Sat Jun 12 10:07:46 2021
+----------------

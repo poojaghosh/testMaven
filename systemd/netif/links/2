@@ -1,0 +1,15 @@
+# This is private data. Do not parse.
+ADMIN_STATE=configured
+OPER_STATE=routable
+REQUIRED_FOR_ONLINE=yes
+NETWORK_FILE=/run/systemd/network/10-netplan-eth0.network
+DNS=172.31.0.2
+NTP=
+DOMAINS=ap-south-1.compute.internal
+ROUTE_DOMAINS=
+LLMNR=yes
+MDNS=no
+ADDRESSES=172.31.14.14/20
+ROUTES=0.0.0.0/0/0/100/254/18446744073709551615 172.31.0.1/32/0/100/254/18446744073709551615
+DHCP4_ADDRESS=172.31.14.14
+DHCP_LEASE=/run/systemd/netif/leases/2

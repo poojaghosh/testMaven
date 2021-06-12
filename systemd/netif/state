@@ -1,0 +1,4 @@
+# This is private data. Do not parse.
+OPER_STATE=routable
+DNS=172.31.0.2
+DOMAINS=ap-south-1.compute.internal

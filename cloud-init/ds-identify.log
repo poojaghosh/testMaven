@@ -1,0 +1,33 @@
+[up 4.97s] ds-identify 
+policy loaded: mode=search report=false found=all maybe=all notfound=disabled
+/etc/cloud/cloud.cfg.d/90_dpkg.cfg set datasource_list: [ NoCloud, ConfigDrive, OpenNebula, DigitalOcean, Azure, AltCloud, OVF, MAAS, GCE, OpenStack, CloudSigma, SmartOS, Bigstep, Scaleway, AliYun, Ec2, CloudStack, Hetzner, IBMCloud, Exoscale, RbxCloud, None ]
+DMI_PRODUCT_NAME=HVM domU
+DMI_SYS_VENDOR=Xen
+DMI_PRODUCT_SERIAL=ec27ec8a-bc3d-96c6-b768-1b9692995c09
+DMI_PRODUCT_UUID=ec27ec8a-bc3d-96c6-b768-1b9692995c09
+PID_1_PRODUCT_NAME=unavailable
+DMI_CHASSIS_ASSET_TAG=
+FS_LABELS=cloudimg-rootfs
+ISO9660_DEVS=
+KERNEL_CMDLINE=BOOT_IMAGE=/boot/vmlinuz-5.4.0-1049-aws root=UUID=b8faee3a-b82d-4a61-b1f3-e473b6c363cc ro console=tty1 console=ttyS0 nvme_core.io_timeout=4294967295
+VIRT=xen
+UNAME_KERNEL_NAME=Linux
+UNAME_KERNEL_RELEASE=5.4.0-1049-aws
+UNAME_KERNEL_VERSION=#51~18.04.1-Ubuntu SMP Fri May 14 18:38:46 UTC 2021
+UNAME_MACHINE=x86_64
+UNAME_NODENAME=ip-172-31-14-14
+UNAME_OPERATING_SYSTEM=GNU/Linux
+DSNAME=
+DSLIST=NoCloud ConfigDrive OpenNebula DigitalOcean Azure AltCloud OVF MAAS GCE OpenStack CloudSigma SmartOS Bigstep Scaleway AliYun Ec2 CloudStack Hetzner IBMCloud Exoscale RbxCloud None
+MODE=search
+ON_FOUND=all
+ON_MAYBE=all
+ON_NOTFOUND=disabled
+pid=398 ppid=379
+is_container=false
+is_ds_enabled(IBMCloud) = true.
+is_ds_enabled(IBMCloud) = true.
+ec2 platform is 'AWS'.
+check for 'Ec2' returned found
+Found single datasource: Ec2
+[up 5.01s] returning 0
